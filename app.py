@@ -33,4 +33,4 @@ def search_api():
 
 
 if __name__ == '__main__':
-    app.run(port=8080, threaded=True)
+    app.run(debug=True)
