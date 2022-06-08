@@ -27,4 +27,4 @@ scrapper.save('justdial-search')
 new_result = scrapper.get_result_similar(
     "https://www.justdial.com/Ambala/Hospitals", group_by_alias=True)
 
-# #print(new_result)
+# # .print(new_result)
